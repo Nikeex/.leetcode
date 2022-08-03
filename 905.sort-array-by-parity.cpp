@@ -7,6 +7,7 @@
 // @lc code=start
 #include<iostream>
 #include<vector>
+#include<list>
 using namespace std; 
 class Solution {
 public:
